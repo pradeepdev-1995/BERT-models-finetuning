@@ -13,7 +13,7 @@ These are the steps I am going to follow
 
 1 - Load the state-of-the-art pre-trained BERT models  
 2 - Load the native multi class text classification dataset  
-3 - Fine-tune the loaded pre-trained BERT model for multi class text classification  
+3 - Fine-tune the loaded pre-trained BERT model on the multi class text classification dataset  
 
 ## Pre-trained models using
 
