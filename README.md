@@ -1,4 +1,4 @@
-# BERT Fine tuning
+# BERT Fine Tuning
 
 
 Pre-trained language representations have been shown to improve many downstream NLP tasks such as question answering, and natural language inference. To apply pre-trained representations to these tasks, there are two main strategies:  
