@@ -19,7 +19,7 @@ These are the steps I am going to follow
 
 Following are the huggingface pretrained language models I am using for this purpose.  
 
-1 - bert-base 
+1 - bert-base  
 2 - bert-large  
 3 - albert  
 4 - roberta  
