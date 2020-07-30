@@ -26,6 +26,10 @@ Following are the huggingface pretrained language models I am using for this pur
 5 - distilbert  
 6 - xlnet  
 
+This repo also contain the multi class text classification using keras deep learning framework with BERT embeddings.  
+
+1 - keras-bert  
+
 
 
 
