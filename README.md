@@ -31,5 +31,12 @@ This repo also contains the multi class text classification using keras deep lea
 1 - keras-bert  
 
 
+This repo also includes some of the usefull transformer wrapper libraries for  fine tuning.  
+
+1 - FARM  
+2 - Ktrain  
+
+
+
 
 
